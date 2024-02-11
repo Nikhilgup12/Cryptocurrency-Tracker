@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+.CryptocurrencyTracker-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  height: 100vh;
+}
